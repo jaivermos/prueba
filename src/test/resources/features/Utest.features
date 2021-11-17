@@ -1,0 +1,9 @@
+
+@stories
+Feature: Utest
+  As a user, I want to register on the Utest platform.
+  @scenario1
+  Scenario: register in Uteste
+    Given the user wants to register you on the Utest platform
+    When Search for the registration form
+    Then he registers on the platform
